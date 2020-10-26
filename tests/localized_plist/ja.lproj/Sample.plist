@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringKey</key>
+	<string>string_value</string>
+	<key>NumberKey</key>
+	<real>123.45</real>
+	<key>DateKey</key>
+	<date>2020-10-25T08:27:55Z</date>
+	<key>BoolKey</key>
+	<true/>
+	<key>DataKey</key>
+	<data></data>
+	<key>DictKey</key>
+	<dict>
+		<key>DictKey1</key>
+		<string></string>
+		<key>MyArray</key>
+		<array/>
+	</dict>
+	<key>ArrayKey</key>
+	<array>
+		<string>ArrayValue1</string>
+		<string>ArrayValue2</string>
+		<string>ArrayValue3</string>
+	</array>
+</dict>
+</plist>
