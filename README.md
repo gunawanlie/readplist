@@ -30,3 +30,5 @@ usage: readplist.rb [options]
 ```
 
 # sample
+![Sample CSV 1](resources/csv-1.png)
+![Sample CSV 2](resources/csv-2.png)
